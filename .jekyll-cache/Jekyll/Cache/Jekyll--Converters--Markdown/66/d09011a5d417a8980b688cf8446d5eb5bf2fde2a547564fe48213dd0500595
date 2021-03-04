@@ -1,0 +1,2 @@
+I"—<p>The <a href="https://www.tensorflow.org/guide/keras/save_and_serialize">Keras/Tensorflow Python API</a> allows simple and easy model saving, loading and inference of trained models. But performing the same operations with C++ is somehow more complicated. This article will describe how to load a <code class="language-plaintext highlighter-rouge">SavedModel</code> with C++ for inference operations.</p>
+:ET
